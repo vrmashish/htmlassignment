@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About Us.html" />
+    <Content Include="application_development.jpg" />
     <Content Include="bootstrap-4.5.3-dist\css\bootstrap-grid.css" />
     <Content Include="bootstrap-4.5.3-dist\css\bootstrap-grid.min.css" />
     <Content Include="bootstrap-4.5.3-dist\css\bootstrap-reboot.css" />
@@ -79,8 +80,16 @@
     <Content Include="bootstrap-4.5.3-dist\js\bootstrap.js" />
     <Content Include="bootstrap-4.5.3-dist\js\bootstrap.min.js" />
     <Content Include="Contact Us.html" />
+    <Content Include="customer-satisfaction-1.jpeg" />
+    <Content Include="edit1.jpg" />
+    <Content Include="edit2.jpeg" />
     <Content Include="HtmlPage1.html" />
     <Content Include="HtmlPage2.html" />
+    <Content Include="industryweek_21286_teamwork.png" />
+    <Content Include="perry-grone-lbLgFFlADrY-unsplash-1-scaled-e1589189013301.jpg" />
+    <Content Include="pm_bg.jpg" />
+    <Content Include="project_management.jpg" />
+    <Content Include="team_work.jpg" />
     <Content Include="Test 01.html" />
     <Content Include="Perform Functions.html" />
     <Content Include="MDB-Free_4.19.1\css\addons\datatables-select.min.css" />
